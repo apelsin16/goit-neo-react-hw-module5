@@ -1,0 +1,9 @@
+.nav {
+    box-shadow: 0px 5px 5px 0px #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.buildLinkClass {
+    margin-right: 10px;
+}
